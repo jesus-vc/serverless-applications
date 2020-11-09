@@ -9,7 +9,7 @@
  /* ********************************************
   
  * SUMMARY
- * Function: int main()
+ * Function: int main().
  * Input: User inputs various data types to calculate accumulated interest.
  * Output: Returns 0 on success.
  * Procedure: Calculates and displays accumulated interest through a while loop and switch statement that repeatedly calls additional functions based on user input.
